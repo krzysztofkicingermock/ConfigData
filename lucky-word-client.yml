@@ -1,3 +1,5 @@
 wordConfig:
   luckyWord: "Rabbit's Hole" 
   preamble: "The lucky word is"
+  refreshScope:
+    message: "This is the method connected with refreshed scoped."
